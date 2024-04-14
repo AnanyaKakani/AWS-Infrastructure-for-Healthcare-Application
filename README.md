@@ -66,4 +66,5 @@ This document outlines the AWS infrastructure developed for a healthcare Softwar
 ## Conclusion
 
 The AWS infrastructure for the healthcare SaaS application has been carefully designed to address the industry's need for secure, compliant, and scalable cloud solutions. Through the use of AWS services, the infrastructure is positioned to support the efficient and safe handling of sensitive healthcare data.
+
 ![healthcare project](https://github.com/AnanyaKakani/AWS-Infrastructure-for-Healthcare-Application/assets/57082489/449c88d2-50e9-48dc-8bbf-a9cc62552c51)
